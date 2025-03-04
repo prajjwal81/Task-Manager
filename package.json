@@ -14,14 +14,20 @@
     "@react-navigation/bottom-tabs": "^7.2.0",
     "@react-navigation/native": "^7.0.14",
     "@react-navigation/stack": "^7.1.1",
+    "axios": "^1.8.1",
+    "i": "^0.3.7",
+    "npm": "^11.1.0",
     "react": "18.2.0",
     "react-native": "0.74.0",
+    "react-native-fast-image": "^8.6.3",
     "react-native-floating-action": "^1.22.0",
     "react-native-gesture-handler": "^2.23.1",
     "react-native-image-picker": "^8.2.0",
     "react-native-reanimated": "^3.16.7",
     "react-native-safe-area-context": "^5.2.0",
-    "react-native-screens": "^4.6.0"
+    "react-native-screens": "^4.6.0",
+    "react-native-vector-icons": "^10.2.0",
+    "react-native-video": "^6.10.2"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
